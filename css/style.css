@@ -678,6 +678,7 @@ margin:20px;
   #our-servicesec{
     width: 95%;
     display: flex;
+      text-align: center;
     flex-direction: column;
     justify-content: center;
     align-content: center;

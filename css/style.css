@@ -36,12 +36,12 @@ header{
   }
 
   .header-img{
-      background-image:url('https://i.postimg.cc/VvjyJkNb/Professional-Online-Course-Flyer-2.png');
+      background-image:url('https://i.postimg.cc/qqJjn9XY/header.png');
       background-repeat: no-repeat;
       display: flex;
       width:100%;
       overflow: hidden;
-      height: 170vh;
+      height: 185vh;
       background-size: cover;
       background-position: top;
       align-items: center;
@@ -71,7 +71,7 @@ header{
     .header-img {
       background-position:right;
       align-items: flex-end;
-      height: 450px;
+      height: 470px;
      }
   
     }
